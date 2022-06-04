@@ -11,7 +11,7 @@
 ![image](https://user-images.githubusercontent.com/105899463/171969344-b5e0b004-9250-4e42-8a7f-7c9dd815ca05.png)
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
-![image](https://user-images.githubusercontent.com/105899463/171969433-6940df62-b274-4b27-9aea-fe988c5e9141.png)
+![image](https://user-images.githubusercontent.com/105899463/171970296-ac785e75-7c9d-4fac-93e2-728910b50438.png)
 ![image](https://user-images.githubusercontent.com/105899463/171969455-b538a1ee-467d-456a-99f2-da9dbbbdbe14.png)
 ![image](https://user-images.githubusercontent.com/105899463/171969483-332cf15b-5118-4024-8336-6333a873bac8.png)
 ![image](https://user-images.githubusercontent.com/105899463/171969541-c922b4f5-7414-4f64-bd53-33ada9899208.png)
