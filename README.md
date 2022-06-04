@@ -51,4 +51,3 @@ Floyd, T. L. (2007). Principios de circuitos eléctricos. México: Pearson Educa
 
 7.RÚBRICA
 
-
