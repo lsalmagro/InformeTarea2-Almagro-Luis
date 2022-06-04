@@ -24,12 +24,19 @@
 ![image](https://user-images.githubusercontent.com/105899463/171969961-c834e99f-d7df-4da0-b610-9cfe226c33a9.png)
 
 4.VÍDEO
+
 Capitulo 3 - Ley de Ohm
+
 https://youtu.be/GGB_ZYet5Ao
+
 https://youtu.be/eXPaKc_P8aw
+
 Capitulo 4 - Energia y potencia
+
 https://youtu.be/RJmC7Bl39pw
+
 https://youtu.be/9u3PHUxdiOA
+
 https://youtu.be/4E8zQ0fqymE
 
 5.CONCLUSIONES
