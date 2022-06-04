@@ -10,7 +10,9 @@
 ![image](https://user-images.githubusercontent.com/105899463/171969321-b8b25707-33a6-4d31-ae6c-aaf65f4bcc8e.png)
 ![image](https://user-images.githubusercontent.com/105899463/171969344-b5e0b004-9250-4e42-8a7f-7c9dd815ca05.png)
 
+
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
 ![image](https://user-images.githubusercontent.com/105899463/171970296-ac785e75-7c9d-4fac-93e2-728910b50438.png)
 ![image](https://user-images.githubusercontent.com/105899463/171969455-b538a1ee-467d-456a-99f2-da9dbbbdbe14.png)
 ![image](https://user-images.githubusercontent.com/105899463/171969483-332cf15b-5118-4024-8336-6333a873bac8.png)
@@ -37,6 +39,9 @@ https://youtu.be/4E8zQ0fqymE
 - Se aprendió a cálcular la potencia en un circuito.
 
 6.BIBLIOGRAFIA
+
 Floyd, T. L. (2007). Principios de circuitos eléctricos. México: Pearson Educación.
 
 7.RÚBRICA
+
+
